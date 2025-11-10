@@ -1,1 +1,1 @@
-web: gunicorn codestarr.wsgirelease: python manage.py migrate
+web: gunicorn codestarr.wsgi
