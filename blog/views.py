@@ -6,4 +6,5 @@ from .models import Post, Comment
 
 class PostList(generic.ListView):
     queryset = Post.objects.filter(status=1)
+    #model = Post
     template_name = "post_list.html"
