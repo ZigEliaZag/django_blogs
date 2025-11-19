@@ -7,5 +7,5 @@ env.py
 generat-key.py
 blog/fixtures/
 staticfiles/
-blog/static 
-templates/
+templates/blog
+templates
