@@ -6,3 +6,6 @@ __pycache__/
 env.py
 generat-key.py
 blog/fixtures/
+staticfiles/
+blog/static 
+templates/

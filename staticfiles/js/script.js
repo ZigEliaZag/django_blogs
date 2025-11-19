@@ -1,1 +1,0 @@
-console.log("Life could been so easy if you knew how to use django from birth ")
